@@ -1,7 +1,6 @@
 # Defective Product Detection Using Deep Learning
 
 Deep Learning Lab capstone, Ramdeobaba University, Nagpur (Dept. of Electronics Engineering, 2026-27, Semester V).
-Group ID: [your group ID]
 
 Team: Aaditee Bhope (1), Aditi Patel (4), Arya Paunikar (7), Janhavi Gulhane (18)
 
@@ -46,11 +45,7 @@ streamlit run app/app.py
 3. Put `defect_detector.keras` in the same folder as `app.py`, or change the path in the code.
 4. Open http://localhost:8501, then take a photo or upload an image.
 
-## Results (test set)
-| Model | Accuracy | Defective precision | Defective recall | Defective F1 |
-|---|---|---|---|---|
-| CNN baseline | [XX] | [XX] | [XX] | [XX] |
-| EfficientNetB0 | [XX] | [XX] | [XX] | [XX] |
+
 
 ## Sample outputs
 ![Confusion matrix](screenshots/confusion_matrix.png)
